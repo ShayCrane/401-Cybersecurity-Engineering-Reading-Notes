@@ -2,7 +2,7 @@ Reading Notes<br>
 Class 01<br>
 SOC2: Systems and Organization Controls (2)<br><br><br><br>
 
-*The purpose of this document is to facilitate my learning of various networking security topics.  It is created for my personal use, and is a summary, including paraphrasing and direct quotes, of information found in the article(s) linked within.*<br><br>
+*The purpose of this document is to facilitate my learning of cybersecurity topics.  It is created for my personal use, and is a summary, including paraphrasing and direct quotes, of information found in the article(s) linked within.*<br><br>
 
 
 ## The Ultimate Guide to SOC2

@@ -4,7 +4,7 @@
 # Table of Contents
 1.    [Pre-Course Reading; Five Whys and Hows, CompTIA Changing Exam Language](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/pre-course-reading.md)
 
-1.  [Class 01; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
+1.  [Class 01; SOC2 Policies and Compliance](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class01.md)
 1.  [Class 02; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
 1.  [Class 03; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
 1.  [Class 04; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)

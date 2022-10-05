@@ -5,8 +5,8 @@
 1.    [Pre-Course Reading; Five Whys and Hows, CompTIA Changing Exam Language](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/pre-course-reading.md)
 
 1.  [Class 01; SOC2 Policies and Compliance](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class01.md)
-1.  [Class 02; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
-1.  [Class 03; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
+1.  [Class 02; AWS Architecture, SOC2](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class02.md)
+1.  [Class 03; CISSP Domain 1: Cyber Risk Analysis and Management](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class03.md)
 1.  [Class 04; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
 1.  [Class 05; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
 1.  [Class 06; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)

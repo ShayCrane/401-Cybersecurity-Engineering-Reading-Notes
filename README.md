@@ -8,8 +8,8 @@
 1.  [Class 02; AWS Architecture, SOC2](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class02.md)
 1.  [Class 03; CISSP Domain 1: Cyber Risk Analysis and Management](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class03.md)
 1.  [Class 04; CIS Benchmarks](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class04.md)
-1.  [Class 05; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
-1.  [Class 06; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
+1.  Class 05; no reading assigned
+1.  [Class 06; Enterprise File Transfers; Hashing](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class06.md) 
 1.  [Class 07; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
 1.  [Class 08; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
 1.  [Class 09; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)

@@ -1,4 +1,4 @@
-eading Notes <br>
+Reading Notes <br>
 Class 14<br>
 Re: Intrusion Detection Systems<br><br><br><br>
 

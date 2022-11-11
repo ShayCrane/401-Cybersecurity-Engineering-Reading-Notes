@@ -24,3 +24,4 @@
 11. [Class 18; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
 12. [Class 19; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class_____________.md)
 13. [Class 26; Cyber Threat Analyst Role; Remote Code Execution](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class26.md)
+13. [Class 29; Threat Modeling; Stride](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class29.md)

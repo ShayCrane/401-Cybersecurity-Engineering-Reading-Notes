@@ -27,5 +27,5 @@
 12. [Class 30; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class30.md)
 12. [Class 31; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class19.md)
 12. [Class 32; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class32.md)
-12. [Class 33; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class19.md)
-12. [Class 34; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class19.md)
+12. [Class 33; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class33.md)
+12. [Class 34; __________________](https://github.com/ShayCrane/401-Cybersecurity-Engineering-Reading-Notes/blob/main/class34.md)

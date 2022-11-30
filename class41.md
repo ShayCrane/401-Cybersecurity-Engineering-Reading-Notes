@@ -6,21 +6,23 @@ Re: Penetration Testing<br><br><br>
 ## Penetration Testing
 ***https://www.imperva.com/learn/application-security/penetration-testing/***
 
-What is pen testing?
+**What is pen testing?**
 - "a simulated cyber attack against a given system to check for exploitable vulnerabilities"
 - can include: 
   - attempts to breach 
 - results are used to better secure system
 <br><br>
-5 stages of Pen testing 
+
+**5 stages of Pen testing** 
 - Planning and reconnaissance
 - Scanning
   - static and dynamic analysis
 - Gaining access
 - Maintaining access
 - Analysis
+
 <br><br>
-Pen testing methods
+**Pen testing methods**
 - External testing
   - on assets that are internet facing
 - Internal testing
